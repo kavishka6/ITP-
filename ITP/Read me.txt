@@ -1,0 +1,20 @@
+----------
+Usage Note
+----------
+
+
+* Download the zip file
+* Unpack in your Project's Root Folder using netbeans or any other IDE
+* Configure Database and connection String in ' ' 
+* Make sure Database exists if using SQL SERVER or MYSQL 
+
+
+-------------------------
+for the login credentials
+-------------------------
+
+1)Username : 1000
+  Password : PrasA291990
+
+2)Username : 1003
+  Password : BuddhikA98
